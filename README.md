@@ -1,7 +1,7 @@
 ## 👋 Всем привет! Меня зовут Николай
 - :briefcase: хочу работать в команде профессионалов
 - :trophy: участвую в соревнованиях по разработке настоящих проектов
-- :key: приобрел манию решать нетривиальные задачи на CodeWars
+- :key: приобрел манию решать нетривиальные задачи на [Codewars](https://www.codewars.com)
 - :dart: учусь писать код сочетая лаконичность, функциональность и чистоту
 
 ## 🎓 Технологический стек
@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="25" title = VS_CODE>
 <p/>
 
-## :chart_with_upwards_trend: Рейтинг CodeWars
+## :chart_with_upwards_trend: Рейтинг Codewars
 [![Codewarrior Profile Badges](https://www.codewars.com/users/NikolayMishaev/badges/large)](https://www.codewars.com/users/NikolayMishaev)
 
 <!--
