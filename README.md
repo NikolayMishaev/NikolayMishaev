@@ -1,4 +1,4 @@
-### Всем привет! Меня зовут Николай 👋
+## Всем привет! Меня зовут Николай 👋
 - :briefcase: хочу работать в команде профессионалов
 - :trophy: участвую в соревнованиях по разработке настоящих проектов
 - :key: приобрел манию решать нетривиальные задачи на CodeWars
@@ -19,10 +19,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="25" title="GIT">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="25" title = VS_CODE>
 <p/>
-
-&nbsp;
-&ensp;
-&emsp;
 
 ### :trophy: Рейтинг CodeWars
 [![Codewarrior Profile Badges](https://www.codewars.com/users/NikolayMishaev/badges/large)](https://www.codewars.com/users/NikolayMishaev)
